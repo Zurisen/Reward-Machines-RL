@@ -1,0 +1,6 @@
+    torch
+    numpy
+    gym
+    gym-minigrid
+    pandas
+    matplotlib
